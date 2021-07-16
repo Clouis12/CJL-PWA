@@ -1,6 +1,6 @@
 # CJL-PWA
 
-Here you will find my budget tracker. Designed to help track your finances on and offline, wherever you go.
+In this App you will find my budget tracker. Designed to help track your finances on and offline, wherever you go.
 
 # User Story
 AS AN avid traveller
